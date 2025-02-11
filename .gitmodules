@@ -1,6 +1,6 @@
-[submodule "frontend"]
+[submodule "nolimit-frontend"]
 	path = nolimit-frontend
 	url = https://github.com/UTH-BrotherHood/NOLIMIT
-[submodule "backend"]
+[submodule "nolimit-backend"]
 	path = nolimit-backend
 	url = https://github.com/UTH-BrotherHood/NOLIMIT-Server
